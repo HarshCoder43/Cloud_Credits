@@ -15,3 +15,11 @@ Then enter this Pass key
 2 - Code : 4p-EDUCR-FACILITATOR2-2023-MX-90
 
 Then sign In with your registered ID
+
+
+26-11-2023
+
+https://www.cloudskillsboost.google/catalog?keywords=GSP282&event=
+
+
+code - 6m-netmarble-90

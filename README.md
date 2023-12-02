@@ -21,5 +21,11 @@ Then sign In with your registered ID
 
 https://www.cloudskillsboost.google/catalog?keywords=GSP282&event=
 
+02-12-2023
+
+https://www.cloudskillsboost.google/catalog?keywords=GSP282&event=Your
+
+code- 4p-EDUCR-ITESM-AI-90
+
 
 code - 6m-netmarble-90
